@@ -1,0 +1,8 @@
+name: BXCount
+version: 1.0
+main: Xhelpcount.BXcount.BXcount
+api-version: 1.16
+commands:
+  xhpycount:
+    description: BXCount 主命令
+    usage: /xhpycount help
